@@ -1,0 +1,11 @@
+Model Information:
+* title:	Barracks from Clash of clans
+* source:	https://sketchfab.com/3d-models/barracks-from-clash-of-clans-eaa5748e781443bc88f704ab6bb43116
+* author:	sedolap (https://sketchfab.com/sedolap)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Barracks from Clash of clans" (https://sketchfab.com/3d-models/barracks-from-clash-of-clans-eaa5748e781443bc88f704ab6bb43116) by sedolap (https://sketchfab.com/sedolap) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
